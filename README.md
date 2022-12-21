@@ -2,7 +2,7 @@
   <b>
     
 # Open Sea Clone
-  [git Repository]https://github.com/codestates-beb/BEB-06-Cryptopunk4
+  <a href="https://github.com/codestates-beb/BEB-06-Cryptopunk4">[git Repository]</a>
 
 ### :star: Fantastic 4 member :star:
 
