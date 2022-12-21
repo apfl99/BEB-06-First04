@@ -1,0 +1,9 @@
+:root {
+  --footer-text: rgba(0, 0, 0, 0.7);
+  --footer-border-bottom: rgba(128, 128, 128, 0.2);
+  --shadow: rgba(128, 128, 128, 0.2);
+}
+
+a {
+  text-decoration: none;
+}

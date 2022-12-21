@@ -1,0 +1,125 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap");
+
+
+
+
+
+.MainName {
+font-family: "Nunito Sans";
+font-weight: bold;
+}
+
+.mypage_bg {
+    height: 300px;
+    background-image: url('./backgr.jpeg');
+    background-position: center;
+}
+
+.profile
+{
+  
+  position: static;
+  width: 160px;
+  height: 160px;
+  border-radius: 20%; 
+  overflow: hidden;
+  background-image: url('./monkey.jpeg');
+  background-size:contain;
+  margin-left: 30px;
+  border: 6px solid;
+  
+}
+.profile img
+{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.profile:hover { transform:scale(1.05); -o-transform:scale(1.05); -moz-transform:scale(1.05); -webkit-transform:scale(1.05);
+
+  transition: transform .35s;  -o-transition: transform .35s;  -moz-transition: transform .35s;  -webkit-transition: transform .35s; }
+
+.MainName
+{
+font-size: 32px;
+margin-left: 30px;
+font-weight: bold;
+margin-bottom: 5px;
+}
+.Creater
+{
+font-size: 16px;
+margin-left: 30px;
+margin-bottom: 10px;
+margin-top: 0px;
+font-family: "Nunito Sans";
+font-weight: bold;
+}
+
+.mypage_class
+{
+    display: flex;
+    font-family: 'Nanum Gothic Coding', monospace;
+    background-color: white
+    
+    
+
+}
+
+.mypage_underline
+{
+    position:absolute;
+    width: 100%;
+    background-color: black;
+    height: -300px;
+    top: 500px;
+    left: -10px;
+
+}
+.mypage_class > div {
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    background-color: white;
+    transition: all 0.5s;
+    
+  }
+
+  .mypage_class > div:hover{
+    color: black;
+    font-size: 20px;
+
+  }
+
+.flex-container {
+    display: flex;
+  }
+  
+  .flex-container > div {
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+
+
+  .Tap {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid rgba(22, 22, 22, 0.08);
+    color: rgba(22, 22, 22, 0.482);}
+    .toggleTap {
+      display: flex;
+      font-size: 28px;
+      font-weight: 600;}
+      .trending {
+        transition: color 0.5s;
+        margin-right: 40px;
+        padding-bottom: 12px;
+        cursor: pointer;
+        border-bottom: 2px solid rgba(22, 22, 22, 0.8);
+        color: #161616;}
