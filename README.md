@@ -1,6 +1,3 @@
-
-  <b>
-    
 # Open Sea Clone
   <a href="https://github.com/codestates-beb/BEB-06-Cryptopunk4">[Repository]</a>
 
@@ -42,6 +39,4 @@
 ![Oct-26-2022 13-27-11](https://user-images.githubusercontent.com/64346003/208834908-880cefa1-c622-4705-ac7c-426c109b8735.gif)
 ![Oct-26-2022 13-27-33](https://user-images.githubusercontent.com/64346003/208834939-776d2176-ff39-43c3-8d31-9625db189963.gif)
 
-<hr/>
   
- </b>
