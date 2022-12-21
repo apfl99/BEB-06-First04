@@ -1,4 +1,4 @@
-<div align=center>
+
   <b>
     
 # Open Sea Clone
@@ -22,4 +22,3 @@
 ![main2](https://user-images.githubusercontent.com/78360207/197763600-8389a130-8262-4713-9795-31d5bee9f661.gif)
 
  </b>
-</div>
