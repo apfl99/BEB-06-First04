@@ -1,5 +1,5 @@
 # Open Sea Clone
-  <a href="https://github.com/codestates-beb/BEB-06-Cryptopunk4">[Repository]</a>
+  <a href="https://github.com/codestates-beb/BEB-06-Cryptopunk4">[Origin Repository]</a>
 
 ### :star: Fantastic 4 member :star:
 
