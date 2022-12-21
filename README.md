@@ -15,7 +15,7 @@
 :diamond_shape_with_a_dot_inside: 메타마스크와 연결 <br/>
 :memo: NFT 데이터 받아오기 <br/>
 :black_nib: 민팅 기능 <br/>
-:sparkles: NFT 판매하기 기능 <br/>
+:sparkles: NFT 거래하기 기능 <br/>
 <br/><br/>
 
 ### 미리 보기
